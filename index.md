@@ -1,18 +1,15 @@
-## Welcome to GitHub Pages
+## PortalBot Help Commands
 
-You can use the [editor on GitHub](https://github.com/MRP-PortalBot/Help-Documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### General Commands
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Commands that are avaliable for everyone to use. 
 
 ```markdown
-Syntax highlighted code block
+# Ping
+Shows the bot's API latency.
+Usage: /ping
 
-# Header 1
-## Header 2
+#
 ### Header 3
 
 - Bulleted
