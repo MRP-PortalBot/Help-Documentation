@@ -1,34 +1,49 @@
-## PortalBot Help Commands
+# PortalBot Help Commands
+## General Commands
+*MiscCMD*
 
-### General Commands
-
-Commands that are avaliable for everyone to use. 
-
-```markdown
-# Ping
+### Ping
 Shows the bot's API latency.
+
 Usage: /ping
 
-#
-### Header 3
+### Rule
+Retrives and outputs an MRP rule.
 
-- Bulleted
-- List
+Usage: /rule <number>
+  
+### Addemoji
+Add's an emoji to your nickname.
 
-1. Numbered
-2. List
+Usage: /addemoji <channel>
+  
+**NOTE:** #channel must be a realm channel.
+  
+### Rememoji
+Remove's an emoji from your nickname. 
 
-**Bold** and _Italic_ and `Code` text
+Usage: /remeoji <channel>
+  
+**NOTE:** #channel must be a realm channel.
 
-[Link](url) and ![Image](src)
-```
+### Gamertag
+Add's your gamertag to the public database.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Usage: >gamertag <gamertag>
+  
+### Uptime
+Show's the uptime of the bot.
 
-### Jekyll Themes
+Usage: >uptime
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MRP-PortalBot/Help-Documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Inspire
+Fetches an inspirational quote for you!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Usage: >inspire
+
+### RPS
+Start's a rock paper scissors game with the bot!
+
+Usage: >rps <rock/paper/scissors>
+
