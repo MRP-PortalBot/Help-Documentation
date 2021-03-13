@@ -47,3 +47,4 @@ Start's a rock paper scissors game with the bot!
 
 Usage: >rps <rock/paper/scissors>
 
+<a href="index.md">miscCMD2</a>
